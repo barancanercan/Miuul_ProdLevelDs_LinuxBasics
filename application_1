@@ -1,0 +1,36 @@
+ 1001  ls
+ 1002  pwd
+ 1003  mkdir linux_basic
+ 1004  cd linux_basic/
+ 1005  mkdir miuul_data
+ 1006  cd miuul_data/
+ 1007  wget https://raw.githubusercontent.com/erkansirin78/datasets/master/Churn_Modelling.csv
+ 1008  ls /etc/*.conf
+ 1009  touch miuul.txt
+ 1010  via  miuul.txt
+ 1011  vi  miuul.txt
+ 1012  cat miuul.txt
+ 1013  mkdir sarı
+ 1014  cd sarı/
+ 1015  touch kırmızı
+ 1016  touch mavi
+ 1017  vi kırmızı
+ 1018  vi mavi
+ 1019  cat kırmızı
+ 1020  cat mavi
+ 1021  cat kırmızı >> mavi
+ 1022  cat mavi
+ 1023  cat mavi >> kırmızı
+ 1025  cat kırmızı
+ 1028  mv kırmızı ../kırmızı_renamed
+ 1029  mv mavi ../mavi_renamed
+ 1030  sudo yum install tree
+ 1031  tree sarı
+ 1032  cd Home
+ 1033  cd /home
+ 1034  cd ~/datasets
+ 1035  wget https://raw.githubusercontent.com/erkansirin78/datasets/master/Wine.csv
+ 1036  head -n 10 wine.csv
+ 1037  head -n 10 Wine.csv
+ 1038  head -n 15 Wine.csv
+ history > history.txt
